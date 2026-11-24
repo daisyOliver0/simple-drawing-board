@@ -21,3 +21,12 @@ Choose a brush and draw on the canvas.
 ## Running Locally
 
 Open `index.html` in a modern web browser.
+## Manual Testing Checklist
+
+- [ ] Draw a short line using a mouse or touch.
+- [ ] Change brush size and color before drawing again.
+- [ ] Clear the canvas and export a test PNG image.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
